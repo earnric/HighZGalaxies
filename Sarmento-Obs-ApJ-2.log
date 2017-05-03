@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  1 MAY 2017 14:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  2 MAY 2017 16:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -536,74 +536,66 @@ LaTeX Font Info:    Try loading font information for U+rsfs on input line 51.
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 ) [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-LaTeX Warning: Command \r invalid in math mode on input line 69.
+LaTeX Warning: Command \r invalid in math mode on input line 71.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 71.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 73.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 73.
  [2]
-<./exampleZ.pdf, id=299, 541.20155pt x 378.5756pt>
+
+Package amsfonts Warning: Obsolete command \Bbb; \mathbb should be used instead
+ on input line 100.
+
+<./exampleZ.pdf, id=305, 541.20155pt x 378.5756pt>
 File: ./exampleZ.pdf Graphic file (type pdf)
  <use ./exampleZ.pdf>
-Package pdftex.def Info: ./exampleZ.pdf used on input line 100.
+Package pdftex.def Info: ./exampleZ.pdf used on input line 110.
 (pdftex.def)             Requested size: 245.26653pt x 171.56474pt.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 99--102
+Overfull \hbox (10.0pt too wide) in paragraph at lines 109--112
  []$ 
  []
 
-<./SP-galaxy_z_14_0_3.pdf, id=300, 470.17534pt x 402.66937pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./SP-galaxy_z_14_0_3.pdf, id=306, 470.17534pt x 402.66937pt>
 File: ./SP-galaxy_z_14_0_3.pdf Graphic file (type pdf)
 
 <use ./SP-galaxy_z_14_0_3.pdf>
-Package pdftex.def Info: ./SP-galaxy_z_14_0_3.pdf used on input line 110.
+Package pdftex.def Info: ./SP-galaxy_z_14_0_3.pdf used on input line 120.
 (pdftex.def)             Requested size: 245.26653pt x 210.05286pt.
 
-<./HOP-galaxy_z_14_0_3.pdf, id=301, 475.69595pt x 402.66937pt>
+<./HOP-galaxy_z_14_0_3.pdf, id=307, 475.69595pt x 402.66937pt>
 File: ./HOP-galaxy_z_14_0_3.pdf Graphic file (type pdf)
 
 <use ./HOP-galaxy_z_14_0_3.pdf>
-Package pdftex.def Info: ./HOP-galaxy_z_14_0_3.pdf used on input line 111.
+Package pdftex.def Info: ./HOP-galaxy_z_14_0_3.pdf used on input line 121.
 (pdftex.def)             Requested size: 245.26653pt x 207.6136pt.
 
-<./SP-galaxy_z_10_0_7.pdf, id=302, 470.17534pt x 402.66937pt>
+<./SP-galaxy_z_10_0_7.pdf, id=308, 470.17534pt x 402.66937pt>
 File: ./SP-galaxy_z_10_0_7.pdf Graphic file (type pdf)
 
 <use ./SP-galaxy_z_10_0_7.pdf>
-Package pdftex.def Info: ./SP-galaxy_z_10_0_7.pdf used on input line 112.
+Package pdftex.def Info: ./SP-galaxy_z_10_0_7.pdf used on input line 122.
 (pdftex.def)             Requested size: 245.26653pt x 210.05286pt.
 
-<./HOP-galaxy_z_10_0_7.pdf, id=303, 475.69595pt x 402.66937pt>
+<./HOP-galaxy_z_10_0_7.pdf, id=309, 475.69595pt x 402.66937pt>
 File: ./HOP-galaxy_z_10_0_7.pdf Graphic file (type pdf)
 
 <use ./HOP-galaxy_z_10_0_7.pdf>
-Package pdftex.def Info: ./HOP-galaxy_z_10_0_7.pdf used on input line 113.
+Package pdftex.def Info: ./HOP-galaxy_z_10_0_7.pdf used on input line 123.
 (pdftex.def)             Requested size: 245.26653pt x 207.6136pt.
-
-
-Class revtex4-1 Warning: Float cannot be placed.
-
-<./AllHalos_150.png, id=308, 754.4988pt x 728.9634pt>
-File: ./AllHalos_150.png Graphic file (type png)
- <use ./AllHalos_150.png>
-Package pdftex.def Info: ./AllHalos_150.png used on input line 134.
-(pdftex.def)             Requested size: 245.26653pt x 236.96591pt.
-
-<./AllHalos_120.png, id=310, 754.4988pt x 728.9634pt>
-File: ./AllHalos_120.png Graphic file (type png)
- <use ./AllHalos_120.png>
-Package pdftex.def Info: ./AllHalos_120.png used on input line 135.
-(pdftex.def)             Requested size: 245.26653pt x 236.96591pt.
 
 
 Class revtex4-1 Warning: Float cannot be placed.
 
 [3 <./exampleZ.pdf>]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 155.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 138.
 
 [4 <./SP-galaxy_z_14_0_3.pdf> <./HOP-galaxy_z_14_0_3.pdf
 
@@ -617,56 +609,65 @@ DF inclusion: multiple pdfs with page group included in a single page
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./HOP-galaxy_z_10_0_7.pdf): 
 PDF inclusion: multiple pdfs with page group included in a single page
->]
+>] <./AllHalos_150.png, id=551, 754.4988pt x 728.9634pt>
+File: ./AllHalos_150.png Graphic file (type png)
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 155.
+<use ./AllHalos_150.png>
+Package pdftex.def Info: ./AllHalos_150.png used on input line 144.
+(pdftex.def)             Requested size: 245.26653pt x 236.96591pt.
+ <./AllHalos_120.png, id=553, 754.4988pt x 728.9634pt>
+File: ./AllHalos_120.png Graphic file (type png)
+
+<use ./AllHalos_120.png>
+Package pdftex.def Info: ./AllHalos_120.png used on input line 145.
+(pdftex.def)             Requested size: 245.26653pt x 236.96591pt.
 
 
-Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+Class revtex4-1 Warning: Float cannot be placed.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 166.
+LaTeX Warning: Command \r invalid in math mode on input line 176.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 166.
+LaTeX Warning: Command \r invalid in math mode on input line 176.
 
-<./SEDs.pdf, id=557, 1516.94733pt x 523.75668pt>
+<./SEDs.pdf, id=563, 1516.94733pt x 523.75668pt>
 File: ./SEDs.pdf Graphic file (type pdf)
  <use ./SEDs.pdf>
-Package pdftex.def Info: ./SEDs.pdf used on input line 171.
+Package pdftex.def Info: ./SEDs.pdf used on input line 181.
 (pdftex.def)             Requested size: 490.53305pt x 169.36377pt.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 172.
-
-
-LaTeX Warning: Command \r invalid in math mode on input line 179.
+LaTeX Warning: Command \r invalid in math mode on input line 182.
 
 
 LaTeX Warning: Command \r invalid in math mode on input line 189.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 196.
+LaTeX Warning: Command \r invalid in math mode on input line 199.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 222.
+LaTeX Warning: Command \r invalid in math mode on input line 206.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 232.
 
 [5]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 242.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 244.
 
 [6 <./AllHalos_150.png> <./AllHalos_120.png> <./SEDs.pdf>]
-<./SFRD_12.pdf, id=641, 767.19435pt x 610.71852pt>
+<./SFRD_12.pdf, id=647, 767.19435pt x 610.71852pt>
 File: ./SFRD_12.pdf Graphic file (type pdf)
  <use ./SFRD_12.pdf>
-Package pdftex.def Info: ./SFRD_12.pdf used on input line 254.
+Package pdftex.def Info: ./SFRD_12.pdf used on input line 265.
 (pdftex.def)             Requested size: 245.26653pt x 195.23822pt.
 
-<./Halo_Z_Histograms.pdf, id=652, 1460.51898pt x 1167.2408pt>
+<./Halo_Z_Histograms.pdf, id=658, 1460.51898pt x 1167.2408pt>
 File: ./Halo_Z_Histograms.pdf Graphic file (type pdf)
 
 <use ./Halo_Z_Histograms.pdf>
-Package pdftex.def Info: ./Halo_Z_Histograms.pdf used on input line 264.
+Package pdftex.def Info: ./Halo_Z_Histograms.pdf used on input line 275.
 (pdftex.def)             Requested size: 490.53305pt x 392.02994pt.
 
 
@@ -674,151 +675,155 @@ Class revtex4-1 Warning: Float cannot be placed.
 
 [7 <./SFRD_12.pdf>]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 272.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 282.
 
 [8 <./Halo_Z_Histograms.pdf>]
-<./haloUVMag_Summary_scatter9.pdf, id=814, 1100.85117pt x 1105.7545pt>
+<./haloUVMag_Summary_scatter9.pdf, id=820, 1100.85117pt x 1105.7545pt>
 File: ./haloUVMag_Summary_scatter9.pdf Graphic file (type pdf)
 
 <use ./haloUVMag_Summary_scatter9.pdf>
-Package pdftex.def Info: ./haloUVMag_Summary_scatter9.pdf used on input line 29
-5.
+Package pdftex.def Info: ./haloUVMag_Summary_scatter9.pdf used on input line 30
+6.
 (pdftex.def)             Requested size: 490.53305pt x 492.7088pt.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 321.
+LaTeX Warning: Command \r invalid in math mode on input line 332.
 
 [9]
 
 Class revtex4-1 Warning: Dequeueing of floats stalled.
 
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 326.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 333.
 
 [10]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 326.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 333.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
-<./PopIII_fraction-Histograms-all9.pdf, id=865, 1443.62775pt x 1491.67848pt>
+<./PopIII_fraction-Histograms-all9.pdf, id=871, 1443.62775pt x 1491.67848pt>
 File: ./PopIII_fraction-Histograms-all9.pdf Graphic file (type pdf)
 
 <use ./PopIII_fraction-Histograms-all9.pdf>
 Package pdftex.def Info: ./PopIII_fraction-Histograms-all9.pdf used on input li
-ne 331.
+ne 342.
 (pdftex.def)             Requested size: 490.53305pt x 506.86809pt.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 332.
+LaTeX Warning: Command \r invalid in math mode on input line 343.
 
 
-Underfull \hbox (badness 3919) in paragraph at lines 383--383
+Underfull \hbox (badness 3919) in paragraph at lines 394--394
 []$[]$ \OT1/cmr/m/n/8 The joint prob-a-bil-ity of find-ing a galaxy with $\OML/
 cmm/m/it/8 P\OT1/cmr/m/n/8 ([]\OML/cmm/m/it/8 =[] \OMS/cmsy/m/n/8 ^^U
  []
 
-<./Metallicity-bright-4.pdf, id=868, 722.7pt x 722.7pt>
+<./Metallicity-bright-4.pdf, id=874, 722.7pt x 722.7pt>
 File: ./Metallicity-bright-4.pdf Graphic file (type pdf)
 
 <use ./Metallicity-bright-4.pdf>
-Package pdftex.def Info: ./Metallicity-bright-4.pdf used on input line 389.
+Package pdftex.def Info: ./Metallicity-bright-4.pdf used on input line 400.
 (pdftex.def)             Requested size: 490.53305pt x 490.53627pt.
 
-Underfull \hbox (badness 3919) in paragraph at lines 415--415
+Underfull \hbox (badness 3919) in paragraph at lines 426--426
 []$[]$ \OT1/cmr/m/n/8 The joint prob-a-bil-ity of find-ing a galaxy with $\OML/
 cmm/m/it/8 P\OT1/cmr/m/n/8 ([]\OML/cmm/m/it/8 =[] \OMS/cmsy/m/n/8 ^^U
  []
 
-<./filterLF1.pdf, id=877, 1103.55782pt x 1103.06476pt>
+[11] [12]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 433.
+
+[13 <./haloUVMag_Summary_scatter9.pdf>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 433.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+<./filterLF1.pdf, id=1010, 1103.55782pt x 1103.06476pt>
 File: ./filterLF1.pdf Graphic file (type pdf)
  <use ./filterLF1.pdf>
-Package pdftex.def Info: ./filterLF1.pdf used on input line 427.
+Package pdftex.def Info: ./filterLF1.pdf used on input line 438.
 (pdftex.def)             Requested size: 490.53305pt x 490.31526pt.
 
 
 Class revtex4-1 Warning: Float cannot be placed.
 
-[11] [12]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 432.
-
-[13 <./haloUVMag_Summary_scatter9.pdf>]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 432.
-
-
-Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
-
 
 Package natbib Warning: Citation `NEED REF' on page 14 undefined on input line 
-433.
+444.
 
 
-Underfull \hbox (badness 1360) in paragraph at lines 433--434
+Underfull \hbox (badness 1360) in paragraph at lines 444--445
 \OT1/cmr/m/n/10 fil-ters are sys-tem-at-i-cally higher than the pre-dicted
  []
 
-<./filterLF2.pdf, id=1012, 1104.12132pt x 745.32831pt>
+<./filterLF2.pdf, id=1016, 1104.12132pt x 745.32831pt>
 File: ./filterLF2.pdf Graphic file (type pdf)
  <use ./filterLF2.pdf>
-Package pdftex.def Info: ./filterLF2.pdf used on input line 439.
+Package pdftex.def Info: ./filterLF2.pdf used on input line 450.
 (pdftex.def)             Requested size: 490.53305pt x 331.12985pt.
 
 
 Class revtex4-1 Warning: Float cannot be placed.
 
-<./allFilts.pdf, id=1034, 701.01903pt x 453.85811pt>
+[14]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 471.
+
+[15 <./PopIII_fraction-Histograms-all9.pdf>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 471.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+<./allFilts.pdf, id=1133, 701.01903pt x 453.85811pt>
 File: ./allFilts.pdf Graphic file (type pdf)
  <use ./allFilts.pdf>
-Package pdftex.def Info: ./allFilts.pdf used on input line 463.
+Package pdftex.def Info: ./allFilts.pdf used on input line 474.
 (pdftex.def)             Requested size: 245.26653pt x 158.79039pt.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 464.
+LaTeX Warning: Command \r invalid in math mode on input line 475.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 464.
+LaTeX Warning: Command \r invalid in math mode on input line 475.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 464.
+LaTeX Warning: Command \r invalid in math mode on input line 475.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 464.
+LaTeX Warning: Command \r invalid in math mode on input line 475.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 464.
+LaTeX Warning: Command \r invalid in math mode on input line 475.
 
-[14] [15 <./PopIII_fraction-Histograms-all9.pdf>]
+[16] [17 <./Metallicity-bright-4.pdf>]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 475.
-
-
-Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
-
-[16 <./Metallicity-bright-4.pdf>]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 475.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 486.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
-[17 <./filterLF1.pdf>]
+[18 <./filterLF1.pdf>]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 475.
-
-
-Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
-
-[18 <./filterLF2.pdf>]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 475.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 486.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
-[19 <./allFilts.pdf>]
+[19 <./filterLF2.pdf>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 486.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+[20 <./allFilts.pdf>]
 \openout2 = `bibliog.aux'.
 
  (./bibliog.tex)
@@ -829,33 +834,33 @@ Package natbib Warning: There were undefined citations.
 
 Package natbib Warning: There were multiply defined citations.
 
-[20pdfTeX warning (ext4): destination with the same identifier (name{cite.2008M
+[21pdfTeX warning (ext4): destination with the same identifier (name{cite.2008M
 NRAS.391..481S}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.479 \end{document}
+l.490 \end{document}
                     ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 479.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 490.
  (./Sarmento-Obs-ApJ-2.aux (./bibliog.aux
 
 Package natbib Warning: Citation(s) may have changed.
 (natbib)                Rerun to get citations correct.
 
 ))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 479.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 479.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 490.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 490.
 Package rerunfilecheck Info: File `Sarmento-Obs-ApJ-2.out' has not changed.
 (rerunfilecheck)             Checksum: D712AD3A73EC4954619E78CF622DA80B;725.
  ) 
 Here is how much of TeX's memory you used:
- 9458 strings out of 493089
- 138704 string characters out of 6134842
- 319688 words of memory out of 5000000
- 12624 multiletter control sequences out of 15000+600000
+ 9466 strings out of 493089
+ 138863 string characters out of 6134842
+ 320678 words of memory out of 5000000
+ 12629 multiletter control sequences out of 15000+600000
  13959 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,15n,28p,2108b,538s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,15n,28p,1908b,538s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
@@ -880,11 +885,12 @@ st/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2015/texmf-dist
 onts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/texmf-dist/font
 s/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2015/texmf-dist/fonts/
-type1/public/amsfonts/symbols/msam10.pfb>
-Output written on Sarmento-Obs-ApJ-2.pdf (20 pages, 17693061 bytes).
+type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2015/texmf-dist/fo
+nts/type1/public/amsfonts/symbols/msbm7.pfb>
+Output written on Sarmento-Obs-ApJ-2.pdf (21 pages, 17696764 bytes).
 PDF statistics:
- 1501 PDF objects out of 1728 (max. 8388607)
- 825 compressed objects within 9 object streams
- 154 named destinations out of 1000 (max. 500000)
+ 1515 PDF objects out of 1728 (max. 8388607)
+ 837 compressed objects within 9 object streams
+ 157 named destinations out of 1000 (max. 500000)
  177 words of extra memory for PDF output out of 10000 (max. 10000000)
 
